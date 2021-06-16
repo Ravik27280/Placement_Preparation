@@ -1,6 +1,6 @@
 # Placement_Preparation
-[![](https://github.com/Ravik27280.png?size=50)](https://github.com/Ravik27280)
-[![](https://github.com/prabhat2301.png?size=50)](https://github.com/prabhat2301)
+[![](https://github.com/Ravik27280.png?size=70)](https://github.com/Ravik27280)
+[![](https://github.com/prabhat2301.png?size=70)](https://github.com/prabhat2301)
 
 
 ## ARRAY QUSTIONS
