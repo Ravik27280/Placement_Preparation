@@ -16,3 +16,9 @@
 10. Heap Sort
 11. Radix Sort
 12. Bucket Sort
+13. Reverse the array
+14. Find the maximum and minimum element in an array
+15. Find the "Kth" max and min element of an array 
+16. Move all the negative elements to one side of the array 
+17. Find the Union and Intersection of the two sorted arrays.
+
