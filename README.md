@@ -21,3 +21,15 @@
 15. Move all the negative elements to one side of the array 
 16. Find the Union and Intersection of the two sorted arrays.
 
+##LinkedList
+1. Write a Program to reverse the Linked List. (Both Iterative and recursive)
+2. Reverse a Linked List in group of Given Size. [Very Imp]
+3. Delete the elements in an linked list whose sum is equal to zero
+4. Remove Duplicates in a sorted Linked List.
+5. Remove Duplicates in a Un-sorted Linked List.
+6. Write a Program to Move the last element to Front in a Linked List.
+7. Add “1” to a number represented as a Linked List.
+8. Merge Sort For Linked lists.[Very Important]
+9. Quicksort for Linked Lists.[Very Important]
+10. Rotate a Doubly Linked list in group of Given Size.[Very IMP]
+
