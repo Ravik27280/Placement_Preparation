@@ -21,7 +21,7 @@
 15. Move all the negative elements to one side of the array 
 16. Find the Union and Intersection of the two sorted arrays.
 
-##LinkedList
+## LinkedList
 1. Write a Program to reverse the Linked List. (Both Iterative and recursive)
 2. Reverse a Linked List in group of Given Size. [Very Imp]
 3. Delete the elements in an linked list whose sum is equal to zero
