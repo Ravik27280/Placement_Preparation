@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=_trEkEX_-2Q&t=5s
+
 def MargeSort(Arr):
     if len(Arr)>1:
         mid=len(Arr)//2
